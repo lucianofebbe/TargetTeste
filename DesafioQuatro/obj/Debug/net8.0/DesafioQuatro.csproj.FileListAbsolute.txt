@@ -1,0 +1,14 @@
+C:\Users\lucia\source\repos\TargetDesafio\DesafioQuatro\bin\Debug\net8.0\DesafioQuatro.exe
+C:\Users\lucia\source\repos\TargetDesafio\DesafioQuatro\bin\Debug\net8.0\DesafioQuatro.deps.json
+C:\Users\lucia\source\repos\TargetDesafio\DesafioQuatro\bin\Debug\net8.0\DesafioQuatro.runtimeconfig.json
+C:\Users\lucia\source\repos\TargetDesafio\DesafioQuatro\bin\Debug\net8.0\DesafioQuatro.dll
+C:\Users\lucia\source\repos\TargetDesafio\DesafioQuatro\bin\Debug\net8.0\DesafioQuatro.pdb
+C:\Users\lucia\source\repos\TargetDesafio\DesafioQuatro\obj\Debug\net8.0\DesafioQuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\source\repos\TargetDesafio\DesafioQuatro\obj\Debug\net8.0\DesafioQuatro.AssemblyInfoInputs.cache
+C:\Users\lucia\source\repos\TargetDesafio\DesafioQuatro\obj\Debug\net8.0\DesafioQuatro.AssemblyInfo.cs
+C:\Users\lucia\source\repos\TargetDesafio\DesafioQuatro\obj\Debug\net8.0\DesafioQuatro.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\repos\TargetDesafio\DesafioQuatro\obj\Debug\net8.0\DesafioQuatro.dll
+C:\Users\lucia\source\repos\TargetDesafio\DesafioQuatro\obj\Debug\net8.0\refint\DesafioQuatro.dll
+C:\Users\lucia\source\repos\TargetDesafio\DesafioQuatro\obj\Debug\net8.0\DesafioQuatro.pdb
+C:\Users\lucia\source\repos\TargetDesafio\DesafioQuatro\obj\Debug\net8.0\DesafioQuatro.genruntimeconfig.cache
+C:\Users\lucia\source\repos\TargetDesafio\DesafioQuatro\obj\Debug\net8.0\ref\DesafioQuatro.dll

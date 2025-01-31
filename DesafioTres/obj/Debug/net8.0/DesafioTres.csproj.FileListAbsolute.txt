@@ -1,0 +1,17 @@
+C:\Users\lucia\source\repos\TargetDesafio\DesafioTres\obj\Debug\net8.0\DesafioTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\source\repos\TargetDesafio\DesafioTres\obj\Debug\net8.0\DesafioTres.AssemblyInfoInputs.cache
+C:\Users\lucia\source\repos\TargetDesafio\DesafioTres\obj\Debug\net8.0\DesafioTres.AssemblyInfo.cs
+C:\Users\lucia\source\repos\TargetDesafio\DesafioTres\obj\Debug\net8.0\DesafioTres.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\repos\TargetDesafio\DesafioTres\obj\Debug\net8.0\DesafioTres.csproj.AssemblyReference.cache
+C:\Users\lucia\source\repos\TargetDesafio\DesafioTres\bin\Debug\net8.0\DesafioTres.exe
+C:\Users\lucia\source\repos\TargetDesafio\DesafioTres\bin\Debug\net8.0\DesafioTres.deps.json
+C:\Users\lucia\source\repos\TargetDesafio\DesafioTres\bin\Debug\net8.0\DesafioTres.runtimeconfig.json
+C:\Users\lucia\source\repos\TargetDesafio\DesafioTres\bin\Debug\net8.0\DesafioTres.dll
+C:\Users\lucia\source\repos\TargetDesafio\DesafioTres\bin\Debug\net8.0\DesafioTres.pdb
+C:\Users\lucia\source\repos\TargetDesafio\DesafioTres\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\lucia\source\repos\TargetDesafio\DesafioTres\obj\Debug\net8.0\DesafioT.D215376F.Up2Date
+C:\Users\lucia\source\repos\TargetDesafio\DesafioTres\obj\Debug\net8.0\DesafioTres.dll
+C:\Users\lucia\source\repos\TargetDesafio\DesafioTres\obj\Debug\net8.0\refint\DesafioTres.dll
+C:\Users\lucia\source\repos\TargetDesafio\DesafioTres\obj\Debug\net8.0\DesafioTres.pdb
+C:\Users\lucia\source\repos\TargetDesafio\DesafioTres\obj\Debug\net8.0\DesafioTres.genruntimeconfig.cache
+C:\Users\lucia\source\repos\TargetDesafio\DesafioTres\obj\Debug\net8.0\ref\DesafioTres.dll

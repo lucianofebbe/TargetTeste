@@ -1,0 +1,14 @@
+C:\Users\lucia\source\repos\TargetDesafio\DesafioUm\bin\Debug\net8.0\DesafioUm.exe
+C:\Users\lucia\source\repos\TargetDesafio\DesafioUm\bin\Debug\net8.0\DesafioUm.deps.json
+C:\Users\lucia\source\repos\TargetDesafio\DesafioUm\bin\Debug\net8.0\DesafioUm.runtimeconfig.json
+C:\Users\lucia\source\repos\TargetDesafio\DesafioUm\bin\Debug\net8.0\DesafioUm.dll
+C:\Users\lucia\source\repos\TargetDesafio\DesafioUm\bin\Debug\net8.0\DesafioUm.pdb
+C:\Users\lucia\source\repos\TargetDesafio\DesafioUm\obj\Debug\net8.0\DesafioUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\source\repos\TargetDesafio\DesafioUm\obj\Debug\net8.0\DesafioUm.AssemblyInfoInputs.cache
+C:\Users\lucia\source\repos\TargetDesafio\DesafioUm\obj\Debug\net8.0\DesafioUm.AssemblyInfo.cs
+C:\Users\lucia\source\repos\TargetDesafio\DesafioUm\obj\Debug\net8.0\DesafioUm.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\repos\TargetDesafio\DesafioUm\obj\Debug\net8.0\DesafioUm.dll
+C:\Users\lucia\source\repos\TargetDesafio\DesafioUm\obj\Debug\net8.0\refint\DesafioUm.dll
+C:\Users\lucia\source\repos\TargetDesafio\DesafioUm\obj\Debug\net8.0\DesafioUm.pdb
+C:\Users\lucia\source\repos\TargetDesafio\DesafioUm\obj\Debug\net8.0\DesafioUm.genruntimeconfig.cache
+C:\Users\lucia\source\repos\TargetDesafio\DesafioUm\obj\Debug\net8.0\ref\DesafioUm.dll

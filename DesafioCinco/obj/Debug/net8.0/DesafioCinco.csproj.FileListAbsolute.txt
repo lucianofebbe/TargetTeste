@@ -1,0 +1,14 @@
+C:\Users\lucia\source\repos\TargetDesafio\DesafioCinco\bin\Debug\net8.0\DesafioCinco.exe
+C:\Users\lucia\source\repos\TargetDesafio\DesafioCinco\bin\Debug\net8.0\DesafioCinco.deps.json
+C:\Users\lucia\source\repos\TargetDesafio\DesafioCinco\bin\Debug\net8.0\DesafioCinco.runtimeconfig.json
+C:\Users\lucia\source\repos\TargetDesafio\DesafioCinco\bin\Debug\net8.0\DesafioCinco.dll
+C:\Users\lucia\source\repos\TargetDesafio\DesafioCinco\bin\Debug\net8.0\DesafioCinco.pdb
+C:\Users\lucia\source\repos\TargetDesafio\DesafioCinco\obj\Debug\net8.0\DesafioCinco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\source\repos\TargetDesafio\DesafioCinco\obj\Debug\net8.0\DesafioCinco.AssemblyInfoInputs.cache
+C:\Users\lucia\source\repos\TargetDesafio\DesafioCinco\obj\Debug\net8.0\DesafioCinco.AssemblyInfo.cs
+C:\Users\lucia\source\repos\TargetDesafio\DesafioCinco\obj\Debug\net8.0\DesafioCinco.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\repos\TargetDesafio\DesafioCinco\obj\Debug\net8.0\DesafioCinco.dll
+C:\Users\lucia\source\repos\TargetDesafio\DesafioCinco\obj\Debug\net8.0\refint\DesafioCinco.dll
+C:\Users\lucia\source\repos\TargetDesafio\DesafioCinco\obj\Debug\net8.0\DesafioCinco.pdb
+C:\Users\lucia\source\repos\TargetDesafio\DesafioCinco\obj\Debug\net8.0\DesafioCinco.genruntimeconfig.cache
+C:\Users\lucia\source\repos\TargetDesafio\DesafioCinco\obj\Debug\net8.0\ref\DesafioCinco.dll

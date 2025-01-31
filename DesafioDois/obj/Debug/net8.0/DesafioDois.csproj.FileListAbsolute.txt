@@ -1,0 +1,14 @@
+C:\Users\lucia\source\repos\TargetDesafio\DesafioDois\bin\Debug\net8.0\DesafioDois.exe
+C:\Users\lucia\source\repos\TargetDesafio\DesafioDois\bin\Debug\net8.0\DesafioDois.deps.json
+C:\Users\lucia\source\repos\TargetDesafio\DesafioDois\bin\Debug\net8.0\DesafioDois.runtimeconfig.json
+C:\Users\lucia\source\repos\TargetDesafio\DesafioDois\bin\Debug\net8.0\DesafioDois.dll
+C:\Users\lucia\source\repos\TargetDesafio\DesafioDois\bin\Debug\net8.0\DesafioDois.pdb
+C:\Users\lucia\source\repos\TargetDesafio\DesafioDois\obj\Debug\net8.0\DesafioDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\source\repos\TargetDesafio\DesafioDois\obj\Debug\net8.0\DesafioDois.AssemblyInfoInputs.cache
+C:\Users\lucia\source\repos\TargetDesafio\DesafioDois\obj\Debug\net8.0\DesafioDois.AssemblyInfo.cs
+C:\Users\lucia\source\repos\TargetDesafio\DesafioDois\obj\Debug\net8.0\DesafioDois.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\repos\TargetDesafio\DesafioDois\obj\Debug\net8.0\DesafioDois.dll
+C:\Users\lucia\source\repos\TargetDesafio\DesafioDois\obj\Debug\net8.0\refint\DesafioDois.dll
+C:\Users\lucia\source\repos\TargetDesafio\DesafioDois\obj\Debug\net8.0\DesafioDois.pdb
+C:\Users\lucia\source\repos\TargetDesafio\DesafioDois\obj\Debug\net8.0\DesafioDois.genruntimeconfig.cache
+C:\Users\lucia\source\repos\TargetDesafio\DesafioDois\obj\Debug\net8.0\ref\DesafioDois.dll
